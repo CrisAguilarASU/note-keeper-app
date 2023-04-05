@@ -1,0 +1,1 @@
+This is a note posting app built in React to practice working with props and hooks. Users can post notes with a title and description, and delete them once the task has been completed. Functionality is similar to Google's Keep application. The project can be tested here: https://crisaguilarasu.github.io/note-keeper-app/
